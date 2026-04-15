@@ -2,6 +2,7 @@ import { notFound } from 'next/navigation';
 import { getDictionary, hasLocale } from '@/lib/dictionaries';
 import { Header } from '@/components/layout/Header';
 import { Footer } from '@/components/layout/Footer';
+import { CookieBanner } from '@/components/ui/CookieBanner';
 import type { Locale } from '@/types';
 
 export async function generateStaticParams() {
@@ -22,6 +23,7 @@ export default async function LangLayout({
       <Header locale={lang as Locale} dict={dict} />
       {children}
       <Footer locale={lang as Locale} dict={dict} />
+      <CookieBanner locale={lang as Locale} dict={dict} />
     </>
   );
 }
