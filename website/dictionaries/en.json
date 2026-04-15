@@ -1,0 +1,144 @@
+{
+  "nav": {
+    "home": "Home",
+    "about": "About",
+    "data": "Data",
+    "investors": "Investors",
+    "media": "Media",
+    "career": "Career",
+    "contact": "Contact",
+    "legal": "Legal"
+  },
+  "hero": {
+    "badge": "Data Technology Leader",
+    "headline": "Data that powers\nyour business",
+    "subheadline": "Cloud Technologies is Poland's largest Data Management Platform. We deliver precise audience segments for marketers, agencies, and technology partners.",
+    "cta_primary": "Explore our solutions",
+    "cta_secondary": "Get in touch"
+  },
+  "metrics": {
+    "headline": "Key Metrics",
+    "subheadline": "Numbers that speak for themselves"
+  },
+  "social_proof": {
+    "headline": "Trusted by market leaders"
+  },
+  "value_prop": {
+    "headline": "Why Cloud Technologies?",
+    "subheadline": "We offer a complete data ecosystem — from collection and processing to segmentation and activation",
+    "item1_title": "Poland's Largest Data Platform",
+    "item1_desc": "Over 30 million user profiles with hundreds of behavioral and demographic attributes",
+    "item2_title": "AI & ML Technology",
+    "item2_desc": "Advanced segmentation algorithms and consumer behavior prediction powered by machine learning",
+    "item3_title": "GDPR Compliant",
+    "item3_desc": "Full compliance with European personal data protection regulations. All data collected with user consent",
+    "item4_title": "Real-time Data",
+    "item4_desc": "We process millions of events daily, delivering up-to-date and precise audience data"
+  },
+  "global_reach": {
+    "headline": "Global Data Reach",
+    "subheadline": "We operate in 12 European markets, gathering data from diverse digital sources"
+  },
+  "data_flow": {
+    "headline": "How we work?",
+    "subheadline": "Our data processing flow in 4 steps",
+    "step1_title": "Data Collection",
+    "step1_desc": "We gather data from partner networks, pixels and tags with user consent",
+    "step2_title": "Processing",
+    "step2_desc": "Data is normalized, cleaned and enriched in real time",
+    "step3_title": "AI Segmentation",
+    "step3_desc": "ML algorithms create precise segments and behavioral profiles",
+    "step4_title": "Activation",
+    "step4_desc": "Ready segments reach advertising platforms and MarTech systems"
+  },
+  "use_cases": {
+    "headline": "Use Cases",
+    "subheadline": "How our clients use Cloud Technologies data"
+  },
+  "compliance": {
+    "headline": "Security & Compliance",
+    "subheadline": "We prioritize transparency and full regulatory compliance",
+    "gdpr_title": "GDPR",
+    "gdpr_desc": "Full compliance with personal data protection regulations. Data processed exclusively on consent basis.",
+    "iso_title": "ISO 27001",
+    "iso_desc": "Information security certificate confirming the highest standards of data management.",
+    "iab_title": "IAB TCF 2.2",
+    "iab_desc": "Compliance with the advertising industry's Transparency & Consent Framework.",
+    "audit_title": "Regular Audits",
+    "audit_desc": "Independent security and compliance audits conducted by external experts."
+  },
+  "partners": {
+    "headline": "Our Partners"
+  },
+  "newsletter": {
+    "headline": "Stay Updated",
+    "subheadline": "Receive monthly report on Data & AdTech trends",
+    "placeholder": "Your email address",
+    "cta": "Subscribe"
+  },
+  "footer": {
+    "description": "Poland's largest Data Management Platform (DMP). We deliver precise audience segments for marketers and technology partners.",
+    "rights": "All rights reserved.",
+    "privacy": "Privacy Policy",
+    "terms": "Terms of Service"
+  },
+  "about": {
+    "title": "About Cloud Technologies",
+    "subtitle": "We are a pioneer in data technology in Poland and Central Europe",
+    "mission_title": "Our Mission",
+    "mission_desc": "Democratizing access to high-quality data for companies of all sizes. We believe precise data is the foundation of effective digital marketing.",
+    "model_title": "Business Model",
+    "model_desc": "We operate as a Data Management Platform (DMP) — connecting data providers with buyers, delivering value to both sides of the advertising ecosystem.",
+    "tech_title": "DMP Technology",
+    "tech_desc": "Our platform processes over 5 billion events per month, using advanced machine learning algorithms to create precise user profiles."
+  },
+  "data_page": {
+    "title": "Data & Technology",
+    "subtitle": "Comprehensive data solutions for marketers",
+    "sources_title": "Data Sources",
+    "types_title": "Data Types",
+    "usage_title": "Usage",
+    "ai_title": "AI & Segmentation"
+  },
+  "investors": {
+    "title": "Investor Relations",
+    "subtitle": "Information for shareholders and investors",
+    "reports_title": "Financial Reports",
+    "governance_title": "Corporate Governance",
+    "strategy_title": "Growth Strategy"
+  },
+  "media": {
+    "title": "Media & News",
+    "subtitle": "Latest news from Cloud Technologies",
+    "read_more": "Read more"
+  },
+  "career": {
+    "title": "Career",
+    "subtitle": "Join the team of data technology leaders",
+    "culture_title": "Our Culture",
+    "offers_title": "Open Positions",
+    "apply": "Apply"
+  },
+  "contact": {
+    "title": "Contact",
+    "subtitle": "Get in touch with us",
+    "name_label": "Full Name",
+    "email_label": "Email Address",
+    "company_label": "Company",
+    "message_label": "Message",
+    "send": "Send Message",
+    "address_title": "Address",
+    "phone_title": "Phone",
+    "email_title": "Email"
+  },
+  "legal": {
+    "title": "Privacy Policy",
+    "subtitle": "Information about personal data processing"
+  },
+  "common": {
+    "learn_more": "Learn more",
+    "back": "Back",
+    "language_pl": "PL",
+    "language_en": "EN"
+  }
+}

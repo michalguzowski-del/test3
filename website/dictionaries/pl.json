@@ -1,0 +1,144 @@
+{
+  "nav": {
+    "home": "Strona główna",
+    "about": "O nas",
+    "data": "Dane",
+    "investors": "Inwestorzy",
+    "media": "Media",
+    "career": "Kariera",
+    "contact": "Kontakt",
+    "legal": "Dokumenty prawne"
+  },
+  "hero": {
+    "badge": "Lider technologii danych",
+    "headline": "Dane, które napędzają\nTwój biznes",
+    "subheadline": "Cloud Technologies to największa polska platforma zarządzania danymi. Dostarczamy precyzyjne segmenty odbiorców dla marketerów, agencji i partnerów technologicznych.",
+    "cta_primary": "Poznaj nasze rozwiązania",
+    "cta_secondary": "Skontaktuj się z nami"
+  },
+  "metrics": {
+    "headline": "Kluczowe wskaźniki",
+    "subheadline": "Liczby, które mówią same za siebie"
+  },
+  "social_proof": {
+    "headline": "Zaufali nam liderzy rynku"
+  },
+  "value_prop": {
+    "headline": "Dlaczego Cloud Technologies?",
+    "subheadline": "Oferujemy kompletny ekosystem danych — od zbierania i przetwarzania, po segmentację i aktywację",
+    "item1_title": "Największa baza danych w Polsce",
+    "item1_desc": "Ponad 30 milionów profili użytkowników z setkami atrybutów behawioralnych i demograficznych",
+    "item2_title": "Technologia AI & ML",
+    "item2_desc": "Zaawansowane algorytmy segmentacji i predykcji zachowań konsumentów oparte na uczeniu maszynowym",
+    "item3_title": "Zgodność z RODO",
+    "item3_desc": "Pełna zgodność z europejskimi regulacjami ochrony danych osobowych. Wszystkie dane zbierane za zgodą użytkowników",
+    "item4_title": "Dane w czasie rzeczywistym",
+    "item4_desc": "Przetwarzamy miliony zdarzeń dziennie, dostarczając aktualnych i precyzyjnych danych odbiorców"
+  },
+  "global_reach": {
+    "headline": "Globalny zasięg danych",
+    "subheadline": "Działamy na 12 rynkach europejskich, gromadząc dane z różnorodnych źródeł cyfrowych"
+  },
+  "data_flow": {
+    "headline": "Jak działamy?",
+    "subheadline": "Nasz proces przetwarzania danych w 4 krokach",
+    "step1_title": "Zbieranie danych",
+    "step1_desc": "Gromadzimy dane z sieci partnerskich, pixeli i tagów za zgodą użytkowników",
+    "step2_title": "Przetwarzanie",
+    "step2_desc": "Dane są normalizowane, czyszczone i wzbogacane w czasie rzeczywistym",
+    "step3_title": "Segmentacja AI",
+    "step3_desc": "Algorytmy ML tworzą precyzyjne segmenty i profile behawioralne",
+    "step4_title": "Aktywacja",
+    "step4_desc": "Gotowe segmenty trafiają do platform reklamowych i systemów MarTech"
+  },
+  "use_cases": {
+    "headline": "Przypadki użycia",
+    "subheadline": "Jak nasi klienci wykorzystują dane Cloud Technologies"
+  },
+  "compliance": {
+    "headline": "Bezpieczeństwo i zgodność",
+    "subheadline": "Stawiamy na transparentność i pełną zgodność z regulacjami prawnymi",
+    "gdpr_title": "RODO / GDPR",
+    "gdpr_desc": "Pełna zgodność z rozporządzeniem o ochronie danych osobowych. Dane przetwarzane wyłącznie na podstawie zgody.",
+    "iso_title": "ISO 27001",
+    "iso_desc": "Certyfikat bezpieczeństwa informacji potwierdzający najwyższe standardy zarządzania danymi.",
+    "iab_title": "IAB TCF 2.2",
+    "iab_desc": "Zgodność z Transparency & Consent Framework branży reklamowej.",
+    "audit_title": "Regularne audyty",
+    "audit_desc": "Niezależne audyty bezpieczeństwa i zgodności przeprowadzane przez zewnętrznych ekspertów."
+  },
+  "partners": {
+    "headline": "Nasi partnerzy"
+  },
+  "newsletter": {
+    "headline": "Bądź na bieżąco",
+    "subheadline": "Otrzymuj miesięczny raport o trendach w Data & AdTech",
+    "placeholder": "Twój adres e-mail",
+    "cta": "Zapisz się"
+  },
+  "footer": {
+    "description": "Największa polska platforma zarządzania danymi (DMP). Dostarczamy precyzyjne segmenty odbiorców dla marketerów i partnerów technologicznych.",
+    "rights": "Wszelkie prawa zastrzeżone.",
+    "privacy": "Polityka prywatności",
+    "terms": "Regulamin"
+  },
+  "about": {
+    "title": "O Cloud Technologies",
+    "subtitle": "Jesteśmy pionierem technologii danych w Polsce i Europie Środkowej",
+    "mission_title": "Nasza misja",
+    "mission_desc": "Demokratyzacja dostępu do danych wysokiej jakości dla firm każdej wielkości. Wierzymy, że precyzyjne dane są fundamentem skutecznego marketingu cyfrowego.",
+    "model_title": "Model biznesowy",
+    "model_desc": "Działamy jako platforma zarządzania danymi (DMP) — łączymy dostawców danych z kupującymi, dostarczając wartość obu stronom ekosystemu reklamowego.",
+    "tech_title": "Technologia DMP",
+    "tech_desc": "Nasza platforma przetwarza ponad 5 miliardów zdarzeń miesięcznie, wykorzystując zaawansowane algorytmy uczenia maszynowego do tworzenia precyzyjnych profili użytkowników."
+  },
+  "data_page": {
+    "title": "Dane i technologia",
+    "subtitle": "Kompleksowe rozwiązania danych dla marketerów",
+    "sources_title": "Źródła danych",
+    "types_title": "Typy danych",
+    "usage_title": "Wykorzystanie",
+    "ai_title": "AI & Segmentacja"
+  },
+  "investors": {
+    "title": "Relacje inwestorskie",
+    "subtitle": "Informacje dla akcjonariuszy i inwestorów",
+    "reports_title": "Raporty finansowe",
+    "governance_title": "Ład korporacyjny",
+    "strategy_title": "Strategia rozwoju"
+  },
+  "media": {
+    "title": "Media i aktualności",
+    "subtitle": "Najnowsze informacje ze świata Cloud Technologies",
+    "read_more": "Czytaj więcej"
+  },
+  "career": {
+    "title": "Kariera",
+    "subtitle": "Dołącz do zespołu liderów technologii danych",
+    "culture_title": "Nasza kultura",
+    "offers_title": "Otwarte rekrutacje",
+    "apply": "Aplikuj"
+  },
+  "contact": {
+    "title": "Kontakt",
+    "subtitle": "Skontaktuj się z nami",
+    "name_label": "Imię i nazwisko",
+    "email_label": "Adres e-mail",
+    "company_label": "Firma",
+    "message_label": "Wiadomość",
+    "send": "Wyślij wiadomość",
+    "address_title": "Adres",
+    "phone_title": "Telefon",
+    "email_title": "E-mail"
+  },
+  "legal": {
+    "title": "Polityka prywatności",
+    "subtitle": "Informacje o przetwarzaniu danych osobowych"
+  },
+  "common": {
+    "learn_more": "Dowiedz się więcej",
+    "back": "Wróć",
+    "language_pl": "PL",
+    "language_en": "EN"
+  }
+}
