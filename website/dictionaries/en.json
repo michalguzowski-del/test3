@@ -140,5 +140,12 @@
     "back": "Back",
     "language_pl": "PL",
     "language_en": "EN"
+  },
+  "cookie": {
+    "title": "We use cookies",
+    "description": "We use cookies and similar technologies to ensure the website works properly, analyze traffic, and personalize content and ads. You can accept all cookies or manage your preferences.",
+    "accept": "Accept all",
+    "reject": "Reject optional",
+    "privacy_link": "Privacy Policy"
   }
 }
