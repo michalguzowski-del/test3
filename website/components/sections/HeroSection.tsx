@@ -64,12 +64,6 @@ export function HeroSection({ locale, dict }: HeroSectionProps) {
                 <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M17 8l4 4m0 0l-4 4m4-4H3" />
               </svg>
             </Link>
-            <Link
-              href={`/${locale}/kontakt`}
-              className="inline-flex items-center justify-center gap-2 border-2 border-[#00C4CC]/50 text-[#00C4CC] font-bold px-8 py-4 rounded-xl hover:border-[#00C4CC] hover:bg-[#00C4CC]/5 transition-all text-base"
-            >
-              {dict.hero.cta_secondary}
-            </Link>
           </div>
 
           {/* Inline metrics */}
